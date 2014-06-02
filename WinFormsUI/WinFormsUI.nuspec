@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>AdamsLair.DockPanelSuite</id>
+    <version>$version$</version>
+	<authors>See original project authors</authors>
+    <title>AdamsLair.DockPanelSuite</title>
+    <projectUrl>https://github.com/AdamsLair/dockpanelsuite</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A custom version of DockPanelSuite for being used with the Duality framework. Forked from https://github.com/dockpanelsuite/dockpanelsuite</description>
+  </metadata>
+  <files>
+    <file src="bin\Release\WeifenLuo.WinFormsUI.Docking.dll" target="lib" />
+    <file src="bin\Release\WeifenLuo.WinFormsUI.Docking.pdb" target="lib" />
+  </files>
+</package>
