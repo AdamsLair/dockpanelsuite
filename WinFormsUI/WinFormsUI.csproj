@@ -10,8 +10,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WeifenLuo.WinFormsUI</RootNamespace>
     <AssemblyName>WeifenLuo.WinFormsUI.Docking</AssemblyName>
-    <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>dockpanelsuite.snk</AssemblyOriginatorKeyFile>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
     <DelaySign>False</DelaySign>
     <AssemblyOriginatorKeyMode>File</AssemblyOriginatorKeyMode>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
@@ -188,7 +189,6 @@
     <None Include="Docking\Resources\DockIndicator_PanelTop_Active.bmp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="dockpanelsuite.snk" />
     <None Include="license.txt" />
   </ItemGroup>
   <ItemGroup>
